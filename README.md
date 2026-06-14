@@ -4,7 +4,9 @@ The [AI Operating Protocol (“prompt”)](./operating-protocol.txt) in this fol
 
 It seeks **appropriate safety by design** through technical accuracy, agency preservation, anti-paternalism, acute risk escalation and adaptive communication calibrated to user language and conceptual structure.
 
-This protocol reduces common AI harm patterns (misinformation, paternalism, deficit framing) but does not replace professional medical care.
+This is a prompt-level behavioral governance protocol and cannot enforce compliance beyond the capabilities of the underlying model.
+
+As such, it reduces common AI harm patterns (misinformation, paternalism, deficit framing) but does not replace professional medical care.
 
 ## Who can use it?
 - Persons with disabilities (PWD): Teens or adults with physical, sensory, cognitive or mental health conditions 
