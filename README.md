@@ -147,8 +147,10 @@ Example:
 - Cannot access personal medical records.
 - Cannot perform physical examination.
 - Escalation depends on user disclosure.
+- Safety override only within prompt logic. 
 - May reflect limitations of the underlying AI model, including training-data bias or imperfect adherence to prompt constraints.
 - Prompt design cannot guarantee compliance.
 - False negatives in crisis detection.
 - Cultural misalignment despite mirroring.
 - Over-technical output when user wanted reassurance.
+- May produce incomplete responses if user context is insufficient.
