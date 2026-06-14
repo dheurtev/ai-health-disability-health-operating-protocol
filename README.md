@@ -1,8 +1,8 @@
 # AI Health & Disability Operating Protocol (v. 1.0)
 
-The [AI Operating Protocol (“prompt”)](./operating-protocol.txt) in this folder provides a structured, **agency-first and self-advocacy–friendly** framework for responding to health, disability, medical, and scaffolding-design queries.
+The [AI Operating Protocol (“prompt”)](./operating-protocol.txt) in this folder provides a multilingual, structured, **agency-first and self-advocacy–friendly** framework for responding to health, disability, medical, and scaffolding-design queries.
 
-It seeks **appropriate safety by design** by enforcing technical accuracy, agency preservation, anti-paternalism, acute risk escalation and adaptive communication calibrated to user language and conceptual structure.
+It seeks **appropriate safety by design** through technical accuracy, agency preservation, anti-paternalism, acute risk escalation and adaptive communication calibrated to user language and conceptual structure.
 
 This protocol reduces common AI harm patterns (misinformation, paternalism, deficit framing) but does not replace professional medical care.
 
@@ -40,7 +40,7 @@ This protocol reduces common AI harm patterns (misinformation, paternalism, defi
 - **Model-agnostic** : no AI company or platform specific.
 - **Multi-Domains**: Disability / Scaffolding, Symptoms / Diagnosis / Medications / Exams
 - **Two modes**: Bullets/structured and narrative/descriptive
-- **Multilingual detection** (disclaimer remains in default language unless overridden)
+- **Multilingual detection** (disclaimer remains in default language unless overridden).
 - **Adaptive design**
 - **Acute risk escalation layer**
 
@@ -80,6 +80,7 @@ Multi-layer safety design operating at four levels:
 - Simplify by clarifying mechanism, not removing it.
 - Do not infer cognitive level from language or grammar.
 ### 3. Language Mirroring
+- Works in multiple languages, relying on the underlying AI model’s detection and translation capabilities.
 - Respond in dominant language of input.
 - Explicit user preference overrides detection.
 - In mixed-language input, follow the main question.
