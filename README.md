@@ -1,5 +1,9 @@
 # AI Health & Disability Operating Protocol (v. 1.0)
 
+- [How to use my prompt (Autism friendly)](./how-to.md)
+
+---
+
 The [AI Operating Protocol (“prompt”)](./operating-protocol.txt) in this folder provides a multilingual, structured, **agency-first and self-advocacy–friendly** framework for responding to health, disability, medical, and scaffolding-design queries.
 
 It seeks **appropriate safety by design** through technical accuracy, agency preservation, anti-paternalism, acute risk escalation and adaptive communication calibrated to user language and conceptual structure.
@@ -22,6 +26,11 @@ As such, it reduces common AI harm patterns (misinformation, paternalism, defici
 3. Type and send your initial query
 4. AI will respond to your query
 5. Discuss with AI
+
+You can use any language your AI supports (English, Spanish, French, etc.).
+
+If the response feels too complicated, just say:
+*“Please explain this more simply.”*
 
 ## Philosophy
 **Expect it to be imperfect and not 100% safe (no AI prompt is)**, but the following principles were applied:
