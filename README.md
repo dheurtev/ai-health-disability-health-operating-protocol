@@ -1,6 +1,6 @@
 # AI Health & Disability Operating Protocol (v. 1.0)
 
-The [AI Operating Protocol (“prompt”)](./ai-health-disability-operating-protocol.txt) in this folder provides a structured, **agency-first and self-advocacy–friendly** framework for responding to health, disability, medical, and scaffolding-design queries.
+The [AI Operating Protocol (“prompt”)](./operating-protocol.txt) in this folder provides a structured, **agency-first and self-advocacy–friendly** framework for responding to health, disability, medical, and scaffolding-design queries.
 
 It seeks **appropriate safety by design** by enforcing technical accuracy, agency preservation, anti-paternalism, acute risk escalation and adaptive communication calibrated to user language and conceptual structure.
 
